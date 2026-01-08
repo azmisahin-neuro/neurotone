@@ -50,10 +50,10 @@ cargo build --release
 ## ▶️ Kullanım
 
 ```bash
-cargo run -- --mode delta --duration 600 --output assets/samples/delta_2hz_600s.wav
-cargo run -- --mode theta --duration 600 --output assets/samples/theta_6hz_600s.wav
-cargo run -- --mode alpha --duration 600 --output assets/samples/alpha_10hz_600s.wav
-cargo run -- --mode beta --duration 600 --output assets/samples/beta_18hz_600s.wav
+cargo run -- --mode delta --duration 600 --output docs/assets/samples/delta_2hz_600s.wav
+cargo run -- --mode theta --duration 600 --output docs/assets/samples/theta_6hz_600s.wav
+cargo run -- --mode alpha --duration 600 --output docs/assets/samples/alpha_10hz_600s.wav
+cargo run -- --mode beta --duration 600 --output docs/assets/samples/beta_18hz_600s.wav
 
 ```
 
